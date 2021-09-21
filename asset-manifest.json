@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-app/static/js/main.fc3a415a.chunk.js",
-    "main.js.map": "/react-app/static/js/main.fc3a415a.chunk.js.map",
-    "runtime-main.js": "/react-app/static/js/runtime-main.87fcd680.js",
-    "runtime-main.js.map": "/react-app/static/js/runtime-main.87fcd680.js.map",
-    "static/js/2.e01eb256.chunk.js": "/react-app/static/js/2.e01eb256.chunk.js",
-    "static/js/2.e01eb256.chunk.js.map": "/react-app/static/js/2.e01eb256.chunk.js.map",
-    "static/js/3.d2540457.chunk.js": "/react-app/static/js/3.d2540457.chunk.js",
-    "static/js/3.d2540457.chunk.js.map": "/react-app/static/js/3.d2540457.chunk.js.map",
-    "index.html": "/react-app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.e01eb256.chunk.js.LICENSE.txt": "/react-app/static/js/2.e01eb256.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/martfury/static/css/main.a617e044.chunk.css",
+    "main.js": "/martfury/static/js/main.fc3a415a.chunk.js",
+    "main.js.map": "/martfury/static/js/main.fc3a415a.chunk.js.map",
+    "runtime-main.js": "/martfury/static/js/runtime-main.053b3fcc.js",
+    "runtime-main.js.map": "/martfury/static/js/runtime-main.053b3fcc.js.map",
+    "static/js/2.e01eb256.chunk.js": "/martfury/static/js/2.e01eb256.chunk.js",
+    "static/js/2.e01eb256.chunk.js.map": "/martfury/static/js/2.e01eb256.chunk.js.map",
+    "static/js/3.d2540457.chunk.js": "/martfury/static/js/3.d2540457.chunk.js",
+    "static/js/3.d2540457.chunk.js.map": "/martfury/static/js/3.d2540457.chunk.js.map",
+    "index.html": "/martfury/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/martfury/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e01eb256.chunk.js.LICENSE.txt": "/martfury/static/js/2.e01eb256.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/martfury/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87fcd680.js",
+    "static/js/runtime-main.053b3fcc.js",
     "static/js/2.e01eb256.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.fc3a415a.chunk.js"
